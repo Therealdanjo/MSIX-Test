@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="" Version="6.6.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainBundle Name="EntityDeveloperFree" Version="6.6.0.0" Publisher="CN=Infominds" Uri="https://github.com/Therealdanjo/MSIX-Test/blob/master/EntityDeveloperFree_6.6.0.0_x64__ez54908hmd0ma.msix" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+</AppInstaller>
